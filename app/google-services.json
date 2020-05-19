@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12613550174",
+    "firebase_url": "https://cpa-tips.firebaseio.com",
+    "project_id": "cpa-tips",
+    "storage_bucket": "cpa-tips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12613550174:android:a540efbe6983d2f8f734cf",
+        "android_client_info": {
+          "package_name": "islam.somon.cpatips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12613550174-vhbbgn3cp8pf0ahodit1mqgdi6pcu7da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy30d9Cfey4s5v-ZztwXE0ySwCISwJMq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12613550174-vhbbgn3cp8pf0ahodit1mqgdi6pcu7da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
